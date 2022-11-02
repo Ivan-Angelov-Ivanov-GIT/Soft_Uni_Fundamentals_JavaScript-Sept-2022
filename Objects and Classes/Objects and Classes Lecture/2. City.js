@@ -16,4 +16,3 @@ printCity({
     country: "Bulgaria",
     postCode: "1000"
 });
--1 : 17.41
